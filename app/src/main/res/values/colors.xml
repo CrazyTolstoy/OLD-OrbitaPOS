@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="red">#B22222</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darkGrey">#202020</color>
+    <color name="orange">#FF8C00</color>
+    <color name="lightGrey">#D6D5D3</color>
+    <color name="purple">#4D2DF4</color>
+    <color name="pink">#FC2FA7</color>
+    <color name="dugmad">#F7F7F7</color>
+    <color name="darkpink">#F9A0D6</color>
+</resources>
